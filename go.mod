@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/l-with/terraform-provider-camunda
 
 go 1.21
 
